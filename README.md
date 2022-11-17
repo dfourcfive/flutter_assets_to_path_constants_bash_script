@@ -13,3 +13,7 @@ sh flutter_assets_to_path_constants_bash_script.sh YOUR_ASSETS_FOLDER_PATH DESIR
 ```
 
 - If no arguments are given , the script will use default values , extract all assets inside the `./assets` folder and create the ouput `file assets_constants.dart` inside the `./lib` folder
+
+
+# Additional
+All kinds of contribution is welcomed
